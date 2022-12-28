@@ -2,14 +2,11 @@
 layout: page
 title: About
 permalink: "/about/"
-image: assets/images/screenshot.png
+#image: assets/images/logo.png
 ---
 
-This website is a demonstration to see **Affiliates Jekyll theme** in action. 
+Hello, my name is Nurul Arifin. I live in Banjarnegara, Central Java. I am a father of two young children and a husband to a loving wife.
 
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
+I am a fan of instant coffee and chicken noodles.
 
-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
-
-[Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
-
+Follow my Social Media!
