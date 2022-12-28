@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Welcome to My Blog"
+title:  "Selamat Datang di Blog Saya"
 author: MasIpinArifin
-categories: [ post, update ]
+categories: [ post, welcome ]
 image: assets/images/2.png
 published: true
 ---
-Selamat datang di website saya, masipinarifin.github.io! Saya sangat senang bisa berbagi konten dan informasi dengan Anda melalui platform ini.
+Selamat datang di Blog saya, masipinarifin.github.io! Saya sangat senang bisa berbagi konten dan informasi dengan Anda melalui platform ini.
 
 Di website ini, Anda akan menemukan berbagai macam topik yang saya tangani, mulai dari teknologi, desain, hingga kehidupan sehari-hari. Saya berusaha untuk menyajikan informasi yang bermanfaat dan mudah dipahami oleh para pengunjung.
 
