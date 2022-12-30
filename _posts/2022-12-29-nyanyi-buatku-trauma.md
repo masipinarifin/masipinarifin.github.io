@@ -4,7 +4,7 @@ title: "Meminta ChatGPT OpenAI Menyunting Ceritaku tentang Bakat Nyanyiku yang M
 date: 2022-12-29 05:45
 category: [post, chatGPT] 
 author: MasIpinArifin
-image: assets/images/nyanyijelek.jpg
+image: assets/images/nyanyijelek.png
 tags: [story, chatGPT, openAI, Artificial-Intellegent, Penulisan]
 summary: Beberapa hari lalu kucoba chatBot chatGPT dari OpenAI.com. Sekarang aku kepikiran bagaimana jika tulisanku beberapa tahun lalu itu  disunting sama chatBot ini. Aku akses chat.openai.com. Kutulis dikolom chat, bantu aku menyunting tulisanku. Dia bilang bersedia.
 ---
