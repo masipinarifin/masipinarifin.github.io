@@ -51,6 +51,8 @@ Akhirnya, aku menemukan minatku di bidang olahraga. Aku mulai mengikuti kegiatan
 
 Moral dari cerita ini adalah jangan merasa putus asa jika kita tidak memiliki bakat dalam satu bidang. Selalu ada kemampuan dan minat yang lain yang mungkin belum kita temukan. Terus berusaha mengembangkan diri, dan percayalah bahwa setiap orang memiliki bakat yang luar biasa di bidang lain.
 
+**END**
+
 Wow, sungguh menarik robotpun bisa ngasih pesan moral. Padahal tambahan itu tidak ada dalam cerita awal, chatBotnya mungkin inisiatif memberikan solusi untuk akhir ceritanya.
 
 Kemudian, kuminta beberapa saran judul untuk cerita tersebut. ChatBot memberikan beberapa saran judul.
