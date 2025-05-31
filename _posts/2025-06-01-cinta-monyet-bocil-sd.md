@@ -1,8 +1,10 @@
 ---
-layout: post, Stroy
-title: "Waktu Cinta Monyet Mengetuk WA Anak SD-ku"
+layout: post
+title: "Waktu Cinta Monyet Muncul di WA Anakku"
+category: [post, story] 
+author: MasIpinArifin
+image: assets/images/cinta-monyet.png
 date: 2025-06-01
-categories: parenting digital anak
 ---
 
 Malam itu, seperti biasa, aku duduk di kamar bersama istriku dan ponsel istriku di tangan. Kami memeriksa chat di WA anak perempuan kami. Jangan salah paham—kami bukan tipe orang tua yang hobi mengintip privasi anak. Tapi sudah beberapa hari ini aku dan istri merasa ada yang... aneh.
