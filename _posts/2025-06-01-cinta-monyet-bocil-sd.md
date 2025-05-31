@@ -62,6 +62,12 @@ Kami sadar, Kiya sedang tumbuh. Dunia tempat dia tinggal kini bukan cuma rumah d
 
 Aku harus mengajak Kiya ngobrol, besok. Kebetulan dia sudah tidur.
 
+Aku dan istri khawatir jika ada yang sengaja membuat anak kami GR dan baper. Apalagi jika mereka ternyata hanya "bertaruh". 
+
+Namun, apapun modusnya, itu sangat mengkhawatirkan kami.
+
+Kiya pasti belum bisa meregulasi perasaannya sendiri. Untungnya kami mengetahui lebih awal dan bisa mendampinginya.
+
 ***
 
 Aku ketuk pintu kamarnya pelan. Dia sedang duduk sambil gambar. Aku duduk di sampingnya.
