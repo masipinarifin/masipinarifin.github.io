@@ -3,7 +3,7 @@ layout: post
 title: "Waktu Cinta Monyet Muncul di WA Anakku"
 category: [post, story] 
 author: MasIpinArifin
-image: /assets/image/cinta-monyet.png
+image: /assets/images/cinta-monyet.png
 date: 2025-06-01
 ---
 
