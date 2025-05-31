@@ -7,7 +7,7 @@ image: https://drive.google.com/file/d/12aTuAtF0LAyPr1KbwvHTq32C4D6sLPiJ/view?us
 date: 2025-05-31
 ---
 
-Malam itu, seperti biasa, aku duduk di kamar bersama istriku dan ponsel istriku di tangan. Kami memeriksa chat di WA anak perempuan kami. Jangan salah paham—kami bukan tipe orang tua yang hobi mengintip privasi anak. Tapi sudah beberapa hari ini aku dan istri merasa ada yang... aneh.
+Malam itu, seperti biasa, aku duduk di kamar bersama istriku dan ponsel istriku di tangan. Kami memeriksa chat di WA anak perempuan kami. Jangan salah paham—kami bukan tipe orang tua yang hobi mengintip privasi anak. Tapi sudah beberapa hari ini aku dan istri merasa ada yang aneh.
 
 Anakku, Kiya, masih SD kelas lima. Ceria, polos, dan mulai suka nyanyi lagu Selalu Ada di Nadimu, Ost Film Jumbo. Tapi yang membuatku curiga adalah isi chat WhatsApp-nya. Ada satu anak laki-laki yang beberapa kali kirim pesan penuh kode—semacam tebak-tebakan inisial, emoji penuh arti, dan kalimat-kalimat misterius tentang "orang yang aku suka".
 
