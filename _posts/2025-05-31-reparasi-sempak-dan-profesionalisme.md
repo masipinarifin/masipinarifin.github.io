@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reparasi Sempak dan Profesionalisme"
-date: 2025-05-31 19:15
+date: 2025-05-30 19:15
 category: [post, story] 
 author: MasIpinArifin
 image: assets/images/sempak.png
