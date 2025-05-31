@@ -3,8 +3,8 @@ layout: post
 title: "Waktu Cinta Monyet Muncul di WA Anakku"
 category: [post, story] 
 author: MasIpinArifin
-image: "https://drive.google.com/uc?export=download&id=12aTuAtF0LAyPr1KbwvHTq32C4D6sLPiJ"
-date: 2025-05-31
+image: /assets/image/cinta-monyet.png
+date: 2025-06-01
 ---
 
 Malam itu, seperti biasa, aku duduk di kamar bersama istriku dan ponsel istriku di tangan. Kami memeriksa chat di WA anak perempuan kami. Jangan salah paham—kami bukan tipe orang tua yang hobi mengintip privasi anak. Tapi sudah beberapa hari ini aku dan istri merasa ada yang aneh.
