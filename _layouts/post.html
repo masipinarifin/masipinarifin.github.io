@@ -55,9 +55,12 @@ post_class: post-template
                 {% endif %}
                 </small>
             </p>
-            
+
+		<!-- Share Buttons -->
+		<p>
+			{% include share-buttons.html %}
+		</p>  
 			
-            
             <!-- Prev/Next -->
             <div class="row PageNavigation mt-4 prevnextlinks d-flex justify-content-between">
               {% if page.previous.url %}
