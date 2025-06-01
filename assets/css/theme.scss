@@ -613,3 +613,48 @@ span.navigation:before {
     transition: all 3s;
     opacity:.8;
 }
+
+ /* Contoh CSS untuk tombol berbagi */
+ .share-buttons {
+     margin-top: 30px;
+     text-align: center;
+ }
+
+ .share-button {
+     display: inline-block;
+     padding: 8px 15px;
+     margin: 5px;
+     border-radius: 5px;
+     text-decoration: none;
+     color: white;
+     font-weight: bold;
+     transition: background-color 0.3s ease;
+ }
+
+ .share-button.twitter {
+     background-color: #1DA1F2;
+ }
+ .share-button.twitter:hover {
+     background-color: #0c85d0;
+ }
+
+ .share-button.facebook {
+     background-color: #1877F2;
+ }
+ .share-button.facebook:hover {
+     background-color: #145dbb;
+ }
+
+ .share-button.linkedin {
+     background-color: #0A66C2;
+ }
+ .share-button.linkedin:hover {
+     background-color: #074b8e;
+ }
+
+ .share-button.email {
+     background-color: #777; /* Warna abu-abu generik */
+ }
+ .share-button.email:hover {
+     background-color: #555;
+ }
