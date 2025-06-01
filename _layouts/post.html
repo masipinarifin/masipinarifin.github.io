@@ -39,7 +39,7 @@ post_class: post-template
 			</div>
 		{% if page.author %}				
 				<div class="row post-top-meta">
-					<div class="col-md-4" align="center">
+					<div class="col-md-12">
 						<!-- Post Date -->
 					            <p>
 					            <small>
@@ -48,10 +48,7 @@ post_class: post-template
 					                (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
 					                {% endif %}
 					                </small>
-					            </p>
-					</div>
-					<div class="col-md-6">
-						| <a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a><br>						
+					            </p> | <a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a><br>	
 					</div>
 				</div>				
                 {% endif %}
