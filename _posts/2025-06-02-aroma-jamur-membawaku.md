@@ -3,7 +3,7 @@ layout: post
 title: "Aroma Jamur Membawaku ke Masa Itu"
 author: MasIpinArifin
 date: 2025-06-02
-image: /assets/images/jamur.jpg
+image: /drive.google.com/uc?export=download&id=13oFtbtoc_jhpQ1kponRLrMJmzvxSSJWc
 description: "Sebuah cerita sederhana tentang es kopi, perut mules, jamur sawah, dan kenangan akan Mbah Uti."
 tags: [kenangan, keluarga, jamur, nostalgia, blog pribadi]
 categories: [post, story]
