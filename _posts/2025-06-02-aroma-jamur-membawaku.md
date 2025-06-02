@@ -107,4 +107,4 @@ Malam itu, di ruang tengah terasa hangat oleh aroma jamur, tawa kecil, dan kenan
 
 ---
 
-💡 **Rekomendasi**: Ingin masakan jamur makin gurih dan sehat? Coba [Kaldu Alami Jamur Merang](https://s.shopee.co.id/5fcgPVFnAC) — kaldu praktis dari jamur asli, tanpa MSG!
+💡 **Rekomendasi**: Ingin masakan makin gurih dan sehat? Coba [Kaldu Alami Jamur Merang](https://s.shopee.co.id/5fcgPVFnAC) — kaldu praktis dari jamur asli, tanpa MSG!
