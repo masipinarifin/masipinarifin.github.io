@@ -3,7 +3,7 @@ layout: post
 title: "Rumput Tumbuh, Waktu Terbatas – Tapi Ayah Punya Senjatanya"
 author: MasIpinArifin
 date: 2025-06-16
-image: /assets/images/zper-mesin-rumput.jpg
+image: assets/images/zper-mesin-rumput.jpg
 description: Cerita ringan tentang seorang ayah yang menemukan solusi membersihkan halaman dengan ZPER ZP003—mesin potong rumput elektrik praktis.
 categories: [rumah-tangga, alat-praktis, storytelling]
 tag: [mesin rumput, ZPER, Shopee, kebun, soft selling]
