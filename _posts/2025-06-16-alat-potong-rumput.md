@@ -8,9 +8,6 @@ description: Cerita ringan tentang seorang ayah yang menemukan solusi membersihk
 categories: [rumah-tangga, alat-praktis, storytelling]
 tag: [mesin rumput, ZPER, Shopee, kebun, soft selling]
 ---
-
-# Rumput Tumbuh, Waktu Terbatas – Tapi Ayah Punya Senjatanya
-
 Setiap akhir pekan, Pak Wira selalu punya satu tujuan kecil: **membersihkan halaman rumah sebelum anak-anak bangun.**
 
 Bukan karena siapa-siapa. Tapi karena rumput yang menjalar liar di depan rumah itu mengganggu pandangan. Dan lebih dari itu—ia ingin halaman tetap bersih untuk anak-anaknya bermain.
@@ -42,6 +39,9 @@ Jangan biarkan waktu habis hanya untuk mengurus rumput liar.
 - 🛒 **Dapatkan di Shopee sekarang:**  
 👉 [Klik di sini untuk beli](https://s.shopee.co.id/2qIrOalfcW)
 
+dan
+
+🌟 [Klik untuk Lihat Koleksiku yang lain](https://collshp.com/masipinarifin)
 ---
 
 **#ZPER #MesinRumput #TamanBersih #SoftSellingStory**
