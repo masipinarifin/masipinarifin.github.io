@@ -39,7 +39,8 @@ Jangan biarkan waktu habis hanya untuk mengurus rumput liar.
 - 🛒 **Dapatkan di Shopee sekarang:**  
 👉 [Klik di sini untuk beli](https://s.shopee.co.id/2qIrOalfcW)
 
-🌟 [Klik untuk Lihat Koleksiku yang lain](https://collshp.com/masipinarifin)
+📦 Temukan produk lainnya di Koleksi Saya:  
+🌟[https://collshp.com/masipinarifin](https://collshp.com/masipinarifin)
 ---
 
 **#ZPER #MesinRumput #TamanBersih #SoftSellingStory**
