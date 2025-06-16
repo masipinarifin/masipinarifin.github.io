@@ -38,6 +38,7 @@ Jangan biarkan waktu habis hanya untuk mengurus rumput liar.
 - ⚡️ **Stok terbatas**  
 - 🛒 **Dapatkan di Shopee sekarang:**  
 👉 [Klik di sini untuk beli](https://s.shopee.co.id/2qIrOalfcW)
+
 🌟 [Klik untuk Lihat Koleksiku yang lain](https://collshp.com/masipinarifin)
 ---
 
