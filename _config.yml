@@ -1,6 +1,6 @@
 title: "MasIpinArifin's Blog"
 email: masipinarifin@gmail.com
-timezone: UTC
+timezone: UTC+7
 baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
