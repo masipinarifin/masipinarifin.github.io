@@ -3,7 +3,7 @@ layout: post
 title: Lipatan Rapi yang Tertunda
 author: MasIpinArifin
 date: 2025-06-18
-image: assets/img/lipatan-rapi-pandorma.jpg
+image: assets/images/lipatan-rapi-pandorma.jpg
 description: Kisah seorang ibu muda yang ingin menghadirkan ketenangan lewat rumah rapi, namun halangan datang dari setrika lamanya. Hingga sebuah setrika mini mengubah segalanya.
 categories: [cerita, parenting, lifestyle]
 tag: [setrika uap, pandaoma, storytelling, soft selling, rumah tangga]
