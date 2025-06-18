@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pertarungan Sabtu Pagi: Aku vs Kamar Mandi
+title: Pertarungan Sabtu Pagi, Aku vs Kamar Mandi
 author: MasIpinArifin
 date: 2025-06-18
 image: assets/images/boomjoy-sikat.jpg
