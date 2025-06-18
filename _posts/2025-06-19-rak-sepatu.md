@@ -3,7 +3,7 @@ layout: post
 title: "Rak Sepatu untuk Mimpi yang Lebih Rapi"
 author: MasIpinArifin
 date: 2025-06-19
-image: assets/images/rak-sepatu-cover.png
+image: assets/images/rak-sepatu-cover.jpg
 description: Cerita tentang Dina dan perjuangannya menciptakan rumah impian yang rapi, berujung pada solusi sederhana namun mengubah banyak hal.
 categories: rumah
 tag: [rak sepatu, rumah rapi, minimalis, storytelling, produk rumah tangga]
