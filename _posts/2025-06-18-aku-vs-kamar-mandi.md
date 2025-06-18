@@ -9,8 +9,6 @@ categories: rumah-tangga
 tag: [alat kebersihan, pembersih kamar mandi, sikat lantai]
 ---
 
-### Pertarungan Sabtu Pagi: Aku vs Kamar Mandi
-
 Hari Sabtu pagi, niatku hanya satu: bersih-bersih rumah sebelum anak-anak bangun. Tapi ada satu tempat yang selalu bikin aku menghela napas panjang—**kamar mandi**.
 
 Daki di sudut lantai, kerak di dinding, dan sabun yang membekas di pojok-pojok. Dulu, aku sampai jongkok, semprot-semprot, lalu gosok pakai sikat kecil. Punggung pegal, tangan pegal, hasil pun... yaa, gitu-gitu aja.
